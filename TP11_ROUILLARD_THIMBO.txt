@@ -1,1 +1,1 @@
-Rouillard Antoine et Thimbo Abdoulaye 
+On ne voit pas apparaitre notre fichier comportant nos noms lorsqu'on navigue dans la branche master, car ce fichier n'est pas commit a cette branche 
